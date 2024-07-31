@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prithvi Raj Karki
 - 👀 I’m interested in Data Driven Technologies - Data Analytics, Machine Learning, Data Science, Big Data, ...
-- 🌱 I’m currently learning Deep Learning Techniques and Mathematics behind them.
+- 🌱 I’m currently working as a Data Science POD lead in Standard Chartered Research and Technology India Pvt. Ltd. (SOLV) a B2B e-commerce company.
 - 💞️ I’m looking to collaborate on any Data Project and research.
 - 📫 How to reach me : 
                           mailto: uic.19mca8117@gmail.com
